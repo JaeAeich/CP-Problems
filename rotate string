@@ -1,0 +1,14 @@
+given a string rotate the string in pairs of k elements.
+
+1<=s.length()<=1e4
+0<=k<=1e3
+
+eg:
+s="abcdef" k=2
+
+output: "bcdcfe"
+
+eg:
+s="abcdefg" k=2
+
+output: "bcdcfeg"
